@@ -24,5 +24,4 @@ This project applies nonlinear dynamic systems theory to analyze the financial s
 - Identified 4 distinct financial archetypes among 120,000 workers.
 - **Archetype 3** was found to be financially unstable, with a negative debt sensitivity of -0.0019, indicating a high risk of falling into a debt trap.
 
-## Author
-Sunny Raj
+
